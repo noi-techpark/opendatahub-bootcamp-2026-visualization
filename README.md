@@ -1,17 +1,6 @@
 # Welcome to the Open Data Hub Bootcamp 2026!
 This repo will guide you through the challenge 1, in which you will visualize e-charging stations and their availability on a map.
 
-The Data Visualization/Analysis topic foresees the creation of a visualization that integrates the following functionalities: 
-create a simple view with list of e-charging stations and their availability
-create a map visualization that shows: 
-markers for all stations positioned according to their GPS coordinates 
-color indicator of availability
-extend the visualization to show a heatmap of availability
-Extra: 
-- show heatmap of usage frequency over time
-- animate near real-time updates of stations
-
-
 The goal of this bootcamp is to foster our community around the Open Data Hub, to get to know each other, the technology, but also for you to just learn stuff and make friends. This is not a competition, so don't be afraid to make mistakes and try out new stuff. Our Open Data Hub team is there to help and support you.
 
 You will also have an opportunity to present the results to the public at our upcoming event, the Open Data Hub Day
